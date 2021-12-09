@@ -71,7 +71,7 @@ class Previews extends StatelessWidget {
                           bottom: 0,
                           child: SizedBox(
                               height: 60.0,
-                              child: Image.asset(content.imageUrl)))
+                              child: Image.asset(content.titleImageUrl)))
                     ],
                   ),
                 );
